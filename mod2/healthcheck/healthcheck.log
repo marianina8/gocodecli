@@ -1,0 +1,8 @@
+time=2024-03-28T18:34:37.834-07:00 level=INFO msg="successful check" url=http://www.google.com "status code"=200 duration=103.163667ms
+time=2024-03-28T18:34:38.172-07:00 level=INFO msg="successful check" url=http://www.yahoo.com "status code"=200 duration=337.452958ms
+time=2024-03-28T18:34:38.811-07:00 level=WARN msg="exceeded threshold" url=http://www.aol.com "respons time"=638.485875ms
+time=2024-03-28T18:34:39.818-07:00 level=INFO msg="successful check" url=http://www.google.com "status code"=200 duration=86.786625ms
+time=2024-03-28T18:34:40.059-07:00 level=INFO msg="successful check" url=http://www.yahoo.com "status code"=200 duration=241.390833ms
+time=2024-03-28T18:34:40.414-07:00 level=INFO msg="successful check" url=http://www.aol.com "status code"=200 duration=354.822917ms
+time=2024-03-28T18:34:41.732-07:00 level=ERROR msg="failed to perform request" url=http://www.google.com err="Get \"http://www.google.com\": context canceled"
+time=2024-03-28T18:34:41.732-07:00 level=ERROR msg="check cancelled" url=http://www.google.com attempt=0 "last error"="Get \"http://www.google.com\": context canceled"

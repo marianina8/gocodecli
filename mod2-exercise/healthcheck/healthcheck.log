@@ -1,0 +1,31 @@
+{"time":"2024-03-21T01:50:02.416832Z","level":"INFO","msg":"successful check","url":"http://www.google.com","statusCode":200,"duration":92382084}
+{"time":"2024-03-21T01:50:02.667812Z","level":"INFO","msg":"successful check","url":"http://www.yahoo.com","statusCode":200,"duration":250864667}
+{"time":"2024-03-21T01:50:03.382959Z","level":"WARN","msg":"exceeded threshold","url":"http://www.aol.com","responseTime":714953375}
+{"time":"2024-03-21T01:50:04.413481Z","level":"INFO","msg":"successful check","url":"http://www.google.com","statusCode":200,"duration":88511125}
+{"time":"2024-03-21T01:50:04.870314Z","level":"INFO","msg":"successful check","url":"http://www.yahoo.com","statusCode":200,"duration":456562083}
+{"time":"2024-03-21T01:50:05.295638Z","level":"INFO","msg":"successful check","url":"http://www.aol.com","statusCode":200,"duration":425210500}
+{"time":"2024-03-21T01:50:06.800765Z","level":"INFO","msg":"successful check","url":"http://www.google.com","statusCode":200,"duration":476589333}
+{"time":"2024-03-21T01:50:07.195273Z","level":"INFO","msg":"successful check","url":"http://www.yahoo.com","statusCode":200,"duration":394301917}
+{"time":"2024-03-22T01:50:07.590285Z","level":"INFO","msg":"successful check","url":"http://www.aol.com","statusCode":200,"duration":394707500}
+{"time":"2024-03-22T01:50:08.324856Z","level":"ERROR","msg":"failed to perform request","url":"http://www.google.com","err":"Get \"http://www.google.com\": context canceled"}
+{"time":"2024-03-22T01:50:08.324989Z","level":"ERROR","msg":"check cancelled","url":"http://www.google.com","attempt":0,"err":"Get \"http://www.google.com\": context canceled"}
+{"time":"2024-03-22T02:03:03.485565Z","level":"INFO","msg":"successful check","url":"http://www.google.com","statusCode":200,"duration":86486666}
+{"time":"2024-03-22T02:03:03.708618Z","level":"INFO","msg":"successful check","url":"http://www.yahoo.com","statusCode":200,"duration":222617209}
+{"time":"2024-03-22T02:03:04.258594Z","level":"WARN","msg":"exceeded threshold","url":"http://www.aol.com","responseTime":549717000}
+{"time":"2024-03-23T02:03:05.484609Z","level":"INFO","msg":"successful check","url":"http://www.google.com","statusCode":200,"duration":85674333}
+{"time":"2024-03-23T02:03:05.66009Z","level":"INFO","msg":"successful check","url":"http://www.yahoo.com","statusCode":200,"duration":175393708}
+{"time":"2024-03-23T02:03:06.112027Z","level":"INFO","msg":"successful check","url":"http://www.aol.com","statusCode":200,"duration":451816375}
+{"time":"2024-03-23T02:03:07.482383Z","level":"INFO","msg":"successful check","url":"http://www.google.com","statusCode":200,"duration":82252750}
+{"time":"2024-03-23T02:03:07.663928Z","level":"INFO","msg":"successful check","url":"http://www.yahoo.com","statusCode":200,"duration":181327042}
+{"time":"2024-03-23T02:03:08.151368Z","level":"INFO","msg":"successful check","url":"http://www.aol.com","statusCode":200,"duration":487270041}
+{"time":"2024-03-24T02:03:09.491444Z","level":"INFO","msg":"successful check","url":"http://www.google.com","statusCode":200,"duration":92629875}
+{"time":"2024-03-24T02:03:09.766982Z","level":"INFO","msg":"successful check","url":"http://www.yahoo.com","statusCode":200,"duration":275275208}
+{"time":"2024-03-24T02:03:10.180545Z","level":"INFO","msg":"successful check","url":"http://www.aol.com","statusCode":200,"duration":413391833}
+{"time":"2024-03-24T02:03:11.478756Z","level":"INFO","msg":"successful check","url":"http://www.google.com","statusCode":200,"duration":80339708}
+{"time":"2024-03-24T02:03:11.616945Z","level":"INFO","msg":"successful check","url":"http://www.yahoo.com","statusCode":200,"duration":138132584}
+{"time":"2024-03-24T02:03:12.058152Z","level":"INFO","msg":"successful check","url":"http://www.aol.com","statusCode":200,"duration":441131042}
+{"time":"2024-03-25T02:03:13.473229Z","level":"INFO","msg":"successful check","url":"http://www.google.com","statusCode":200,"duration":74955000}
+{"time":"2024-03-25T02:03:13.614269Z","level":"INFO","msg":"successful check","url":"http://www.yahoo.com","statusCode":200,"duration":140973417}
+{"time":"2024-03-25T02:03:14.073772Z","level":"INFO","msg":"successful check","url":"http://www.aol.com","statusCode":200,"duration":459406250}
+{"time":"2024-03-25T02:03:15.399054Z","level":"ERROR","msg":"failed to perform request","url":"http://www.google.com","err":"Get \"http://www.google.com\": context canceled"}
+{"time":"2024-03-25T02:03:15.399244Z","level":"ERROR","msg":"check cancelled","url":"http://www.google.com","attempt":0,"err":"Get \"http://www.google.com\": context canceled"}

@@ -1,0 +1,39 @@
+time=2024-04-19T16:56:18.407-07:00 level=INFO msg="successful check" url=http://www.google.com statusCode=200 duration=213.709µs
+time=2024-04-19T16:56:18.408-07:00 level=INFO msg="successful check" url=http://www.tripadvisor.com statusCode=500 duration=16.959µs
+time=2024-04-19T16:56:18.459-07:00 level=WARN msg="exceeded threshold" url=http://www.tripadvisor.com responseTime=51.123125ms
+time=2024-04-19T16:56:18.459-07:00 level=ERROR msg="failed to perform request" url=http://www.example.com err="Get \"http://www.example.com\": context deadline exceeded"
+time=2024-04-19T16:56:19.460-07:00 level=ERROR msg="check cancelled" url=http://www.example.com attempt=0 err="Get \"http://www.example.com\": context deadline exceeded"
+time=2024-04-19T16:56:19.461-07:00 level=ERROR msg="failed to perform request" url=http://www.example.com err="Get \"http://www.example.com\": context deadline exceeded"
+time=2024-04-19T16:56:19.461-07:00 level=ERROR msg="check cancelled" url=http://www.example.com attempt=1 err="Get \"http://www.example.com\": context deadline exceeded"
+time=2024-04-19T16:56:19.461-07:00 level=ERROR msg="fetching error" url=http://www.example.com retries=1 err="Get \"http://www.example.com\": context deadline exceeded"
+time=2024-04-20T01:24:13.112Z level=INFO msg="successful check" url=http://example.com statusCode=200 duration=46.709µs
+time=2024-04-20T01:26:25.596Z level=INFO msg="successful check" url=http://example1.com statusCode=200 duration=178.416µs
+time=2024-04-20T01:26:25.597Z level=INFO msg="successful check" url=http://example2.com statusCode=200 duration=4.292µs
+time=2024-04-19T18:27:03.595-07:00 level=INFO msg="successful check" url=http://www.google.com statusCode=200 duration=166.125µs
+time=2024-04-19T18:27:03.596-07:00 level=INFO msg="successful check" url=http://www.tripadvisor.com statusCode=500 duration=13.459µs
+time=2024-04-19T18:27:03.649-07:00 level=WARN msg="exceeded threshold" url=http://www.tripadvisor.com responseTime=52.416458ms
+time=2024-04-19T18:27:03.650-07:00 level=ERROR msg="failed to perform request" url=http://www.example.com err="Get \"http://www.example.com\": context deadline exceeded"
+time=2024-04-19T18:27:04.651-07:00 level=ERROR msg="check cancelled" url=http://www.example.com attempt=0 err="Get \"http://www.example.com\": context deadline exceeded"
+time=2024-04-19T18:27:04.652-07:00 level=ERROR msg="failed to perform request" url=http://www.example.com err="Get \"http://www.example.com\": context deadline exceeded"
+time=2024-04-19T18:27:04.652-07:00 level=ERROR msg="check cancelled" url=http://www.example.com attempt=1 err="Get \"http://www.example.com\": context deadline exceeded"
+time=2024-04-19T18:27:04.652-07:00 level=ERROR msg="fetching error" url=http://www.example.com retries=1 err="Get \"http://www.example.com\": context deadline exceeded"
+time=2024-04-20T01:27:04.653Z level=INFO msg="successful check" url=http://example.com statusCode=200 duration=110.291µs
+time=2024-04-20T01:27:04.654Z level=INFO msg="successful check" url=http://example1.com statusCode=200 duration=87.833µs
+time=2024-04-20T01:27:04.654Z level=INFO msg="successful check" url=http://example2.com statusCode=200 duration=4.959µs
+time=2024-04-20T01:37:23.088Z level=INFO msg="successful check" url=http://example1.com statusCode=200 duration=141.625µs
+time=2024-04-20T01:37:23.089Z level=INFO msg="successful check" url=http://example2.com statusCode=200 duration=11.667µs
+time=2024-04-20T01:38:40.979Z level=INFO msg="successful check" url=http://example1.com statusCode=200 duration=197.667µs
+time=2024-04-20T01:38:40.979Z level=INFO msg="successful check" url=http://example2.com statusCode=200 duration=2.5µs
+time=2024-04-20T01:38:44.522Z level=INFO msg="successful check" url=http://example1.com statusCode=200 duration=315.542µs
+time=2024-04-20T01:38:44.522Z level=INFO msg="successful check" url=http://example2.com statusCode=200 duration=2.25µs
+time=2024-04-20T01:39:26.319Z level=INFO msg="successful check" url=http://example1.com statusCode=200 duration=259.458µs
+time=2024-04-20T01:39:26.319Z level=INFO msg="successful check" url=http://example2.com statusCode=200 duration=2.917µs
+time=2024-04-20T01:42:41.802Z level=INFO msg="successful check" url=http://example1.com statusCode=200 duration=192.917µs
+time=2024-04-20T01:42:41.803Z level=INFO msg="successful check" url=http://example2.com statusCode=200 duration=4.875µs
+{"time":"2024-04-20T01:57:49.944725Z","level":"INFO","msg":"successful check","url":"http://example.com","statusCode":200,"duration":78221625}
+{"time":"2024-04-20T02:00:39.503002Z","level":"INFO","msg":"successful check","url":"http://example.com","statusCode":200,"duration":97402792}
+{"time":"2024-04-20T02:03:50.640404Z","level":"INFO","msg":"successful check","url":"http://example.com","statusCode":200,"duration":56661459}
+{"time":"2024-04-20T02:04:30.005207Z","level":"INFO","msg":"successful check","url":"http://example.com","statusCode":200,"duration":75414083}
+{"time":"2024-04-20T02:06:19.337101Z","level":"INFO","msg":"successful check","url":"http://example.com","statusCode":200,"duration":51532667}
+{"time":"2024-04-20T02:14:14.016595Z","level":"INFO","msg":"successful check","url":"http://example.com","statusCode":200,"duration":56426208}
+{"time":"2024-04-20T02:14:59.516853Z","level":"INFO","msg":"successful check","url":"http://example.com","statusCode":200,"duration":50591583}
