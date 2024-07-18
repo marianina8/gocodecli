@@ -1,6 +1,6 @@
-# Mastering CLI Apps with Go
+# The Art of Command Line Interfaces
 
-This comprehensive course is designed for developers looking to master the creation of command-line interfaces (CLI) using Go. Through a series of structured modules, students will learn to build robust, efficient, and user-friendly CLI tools that are professional-grade. The course covers everything from basic setups and flag usage to advanced features like interactivity, error handling, and distribution strategies.
+This comprehensive course is designed for developers looking to master the creation of command-line interfaces (CLI) using Go. Through a series of structured modules, students will learn to build robust, efficient, and user-friendly CLI tools that are professional-grade. The course covers everything from basic setups and flag usage to advanced features like interactivity, error handling, and distribution strategies.  This code pairs with the [ByteSizeGo video course](https://www.bytesizego.com/art-of-cli-golang).
 
 ## Course Outline
 
